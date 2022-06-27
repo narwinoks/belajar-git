@@ -1,2 +1,3 @@
 name:winarno
 address:karanganyar jawa tengah
+schole:smk negri 2 karangnayar
